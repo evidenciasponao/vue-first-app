@@ -11,7 +11,6 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 [LIVE DEMO](https://quiet-seahorse-f60fe2.netlify.app/)
 
-![image](https://user-images.githubusercontent.com/98203936/232688052-ba28c7ca-7e01-4df0-80cc-46af44a38e6f.png)
 
 
 ![image](https://user-images.githubusercontent.com/98203936/232688211-7ea2163f-240c-400b-8b43-398f5a82f8e8.png)
